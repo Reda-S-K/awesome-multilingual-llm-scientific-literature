@@ -390,7 +390,6 @@ The repository contains a separate curated collection of verified scholarly refe
 awesome-multilingual-llm-scientific-analysis/
 │
 ├── README.md
-├── LICENSE
 │
 ├── paper/
 │   └── AI_Assisted_Research_Paper.pdf
